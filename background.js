@@ -16,7 +16,8 @@ browser.webRequest.onBeforeRequest.addListener(
       "https://www.youtube.com/watch*",
       "https://www.youtube.com/results*",
       "https://www.youtube.com/channel*",
-      "https://www.youtube.com/playlist*"
+      "https://www.youtube.com/playlist*",
+      "https://www.youtube.com/user*"
     ]
   },
   ["blocking"]
